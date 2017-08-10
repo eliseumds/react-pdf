@@ -1,6 +1,6 @@
 {
   "name": "@react-pdf-precompiled/dom",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "description": "Bindings for react-pdf to render inside a react-dom application",
   "main": "./lib/index.js",
   "scripts": {
@@ -26,5 +26,8 @@
   "repository": "git@github.com:eliseumds/react-pdf.git",
   "devDependencies": {
     "babel-cli": "^6.24.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
