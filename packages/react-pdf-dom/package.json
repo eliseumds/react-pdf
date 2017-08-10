@@ -1,6 +1,6 @@
 {
-  "name": "@react-pdf/dom",
-  "version": "0.4.1",
+  "name": "@react-pdf-precompiled/dom",
+  "version": "0.4.7",
   "description": "Bindings for react-pdf to render inside a react-dom application",
   "main": "./lib/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "renderer",
     "pdf"
   ],
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
+  "author": "Eliseu Monar <eliseumds@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@react-pdf/core": "^0.4.1",
@@ -22,8 +22,8 @@
     "react": "16.0.0-alpha.4",
     "react-dom": "16.0.0-alpha.4"
   },
-  "homepage": "https://github.com/diegomura/react-pdf#readme",
-  "repository": "git@github.com:diegomura/react-pdf.git",
+  "homepage": "https://github.com/eliseumds/react-pdf#readme",
+  "repository": "git@github.com:eliseumds/react-pdf.git",
   "devDependencies": {
     "babel-cli": "^6.24.0"
   }

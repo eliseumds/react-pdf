@@ -1,8 +1,8 @@
 {
-  "name": "@react-pdf/node",
-  "version": "0.4.1",
+  "name": "@react-pdf-precompiled/node",
+  "version": "0.4.7",
   "main": "lib/index.js",
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
+  "author": "Eliseu Monar <eliseumds@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "babel ./src --out-dir ./lib",
