@@ -1,6 +1,6 @@
 {
   "name": "@react-pdf-precompiled/node",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "main": "lib/index.js",
   "author": "Eliseu Monar <eliseumds@gmail.com>",
   "license": "MIT",

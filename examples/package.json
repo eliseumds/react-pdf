@@ -1,13 +1,13 @@
 {
   "name": "@react-pdf-precompiled/examples",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "description": "React PDF Examples",
   "main": "./index.js",
   "author": "Eliseu Monar <eliseumds@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@react-pdf-precompiled/core": "^0.4.7",
-    "@react-pdf-precompiled/node": "^0.4.7",
+    "@react-pdf-precompiled/core": "^0.4.8",
+    "@react-pdf-precompiled/node": "^0.4.8",
     "chalk": "^2.0.1",
     "lodash.times": "^4.3.2",
     "react": "16.0.0-alpha.4"
